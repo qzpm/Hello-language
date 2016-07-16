@@ -6,5 +6,6 @@ print `helloworld`
 * Java
 * JavaScript
 * Python
+* Ruby
 * Rust
 * Shell
