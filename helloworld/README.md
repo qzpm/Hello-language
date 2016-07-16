@@ -3,6 +3,7 @@ print `helloworld`
 * C
 * C++
 * Go
+* Haskell
 * Java
 * JavaScript
 * Python
