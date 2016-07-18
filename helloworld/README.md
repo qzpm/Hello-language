@@ -7,6 +7,7 @@ print `helloworld`
 * Java
 * JavaScript
 * PHP
+* Perl
 * Python
 * Ruby
 * Rust
