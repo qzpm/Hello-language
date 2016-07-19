@@ -12,4 +12,5 @@ print `helloworld`
 * Python
 * Ruby
 * Rust
+* Scheme
 * Shell
