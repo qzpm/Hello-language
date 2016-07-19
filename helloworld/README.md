@@ -6,6 +6,7 @@ print `helloworld`
 * Haskell
 * Java
 * JavaScript
+* Lua
 * PHP
 * Perl
 * Python
