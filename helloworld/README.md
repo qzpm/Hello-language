@@ -3,6 +3,7 @@ print `helloworld`
 * C
 * C++
 * C#
+* D
 * Go
 * Haskell
 * Java
