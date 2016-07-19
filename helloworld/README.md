@@ -9,6 +9,7 @@ print `helloworld`
 * Java
 * JavaScript
 * Lua
+* なでしこ
 * PHP
 * Perl
 * Python
