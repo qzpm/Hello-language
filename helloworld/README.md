@@ -2,6 +2,7 @@ print `helloworld`
 
 * C
 * C++
+* C#
 * Go
 * Haskell
 * Java
