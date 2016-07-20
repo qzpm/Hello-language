@@ -1,6 +1,7 @@
 print `helloworld`
 
 * C
+* COBOL
 * C++
 * C#
 * D
