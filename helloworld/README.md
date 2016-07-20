@@ -4,6 +4,7 @@ print `helloworld`
 * C++
 * C#
 * D
+* Fortran
 * Go
 * Haskell
 * Java
