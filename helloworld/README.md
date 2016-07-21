@@ -7,6 +7,7 @@ print `helloworld`
 * D
 * Fortran
 * Go
+* ひまわり
 * Haskell
 * Java
 * JavaScript
