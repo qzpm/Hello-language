@@ -20,3 +20,4 @@ print `helloworld`
 * Scala
 * Scheme
 * Shell
+* Visual Basic
