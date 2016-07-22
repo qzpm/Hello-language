@@ -17,6 +17,7 @@ print `helloworld`
 * PHP
 * Perl
 * Python
+* R
 * Ruby
 * Rust
 * Scala
