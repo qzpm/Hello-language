@@ -2,6 +2,7 @@ print `helloworld`
 
 * C
 * COBOL
+* CoffeeScript
 * C++
 * C#
 * D
