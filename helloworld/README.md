@@ -7,6 +7,7 @@ print `helloworld`
 * C#
 * D
 * Fortran
+* F#
 * Go
 * ひまわり
 * Haskell
