@@ -14,6 +14,7 @@ print `helloworld`
 * Java
 * JavaScript
 * Lua
+* OCaml
 * なでしこ
 * PHP
 * Perl
