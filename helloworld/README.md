@@ -6,6 +6,7 @@ print `helloworld`
 * C++
 * C#
 * D
+* Erlang
 * Fortran
 * F#
 * Go
