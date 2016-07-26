@@ -8,6 +8,7 @@ print `helloworld`
 * C++
 * C#
 * D
+* Dart
 * Erlang
 * Fortran
 * F#
