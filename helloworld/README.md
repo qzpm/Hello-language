@@ -29,4 +29,5 @@ print `helloworld`
 * Scala
 * Scheme
 * Shell
+* Smalltalk
 * Visual Basic
