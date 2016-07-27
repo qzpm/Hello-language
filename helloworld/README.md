@@ -22,6 +22,7 @@ print `helloworld`
 * なでしこ
 * PHP
 * Perl
+* PowerShell
 * Python
 * R
 * Ruby
