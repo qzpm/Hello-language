@@ -2,6 +2,7 @@ print `helloworld`
 
 * Batch file
 * Brainfuck
+* Boo
 * C
 * COBOL
 * CoffeeScript
