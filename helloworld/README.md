@@ -13,6 +13,7 @@ print `helloworld`
 * Erlang
 * Fortran
 * F#
+* gnuplot
 * Go
 * ひまわり
 * Haskell
