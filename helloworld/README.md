@@ -19,6 +19,7 @@ print `helloworld`
 * Haskell
 * Java
 * JavaScript
+* Kotlin
 * Lua
 * OCaml
 * なでしこ
