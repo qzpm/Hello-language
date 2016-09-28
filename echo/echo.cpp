@@ -2,8 +2,7 @@
 
 int main() {
   std::string s;
-  while(true) {
-    std::cin >> s;
-    std::cout << s << std::endl;
-  }
+  std::cin >> s;
+  std::cout << s << std::endl;
+  return 0;
 }
