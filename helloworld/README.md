@@ -5,6 +5,7 @@ print `helloworld`
 * Boo
 * C
 * COBOL
+* Clojure
 * CoffeeScript
 * C++
 * C#
