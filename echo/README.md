@@ -4,4 +4,5 @@ Make echo program.
 * C++
 * Java
 * Python
+* Ruby
 * Rust
