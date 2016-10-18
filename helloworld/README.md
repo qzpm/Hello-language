@@ -1,6 +1,7 @@
 print `helloworld`
 
 * Batch file
+* Befunge
 * Brainfuck
 * Boo
 * C
@@ -22,6 +23,7 @@ print `helloworld`
 * JavaScript
 * Kotlin
 * Lua
+* Makefile
 * OCaml
 * なでしこ
 * PHP
@@ -35,6 +37,6 @@ print `helloworld`
 * Scheme
 * Shell
 * Smalltalk
+* TrumpScript
 * Visual Basic
-* Makefile
 * HQ9+
